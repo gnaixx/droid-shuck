@@ -1,5 +1,7 @@
 package cc.gnaixx.droid_shuck;
 
+import android.app.Application;
+import android.content.pm.ApplicationInfo;
 import android.os.Build;
 import android.support.v4.util.ArrayMap;
 import android.support.v7.app.AppCompatActivity;
